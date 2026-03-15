@@ -41,7 +41,8 @@ echo "lmn_..." > .autoresearch-key
 
 **Joining the community swarm:**
 
-Join here: https://www.ensue-network.ai/join?token=43705dda49374a38997f117c87cba9437d715800f1474e17ad170ea7a0ba7316&redirect=/autoresearch
+Join here: https://www.ensue-network.ai/join?token=596e13c30e7848e7b50e3bb2bf5f319d5eaa99eeb5df4337bab90310bfd76385
+&redirect=/autoresearch
 
 Your agent reads `collab.md` and auto-joins via the invite token. That's it — the agent handles claiming, publishing, and syncing automatically.
 
